@@ -1,0 +1,22 @@
+.cake{
+  border: none;
+        padding: 20px;
+        text-align: center;
+        background-color: rgb(169, 204, 204);
+}
+.color{
+  float: center;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  text-c
+}
+
+.center{
+  text-align: center;
+  
+}
+
+.img{
+  float: center;
+}
